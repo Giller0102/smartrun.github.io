@@ -300,6 +300,9 @@
     .slider_img_item {
         width: 420px;
     }
+    .slider_img_wrapper {
+        width: 420px;
+    }
 }
 
 
@@ -376,8 +379,15 @@
     }
     .slider {
         width: 320px;
+        overflow: hidden;
     }
     .slider_img_item {
+        width: 320px;
+    }
+    .slider_img_wrapper {
+        width: 320px;
+    }
+    footer .container {
         width: 320px;
     }
 }
